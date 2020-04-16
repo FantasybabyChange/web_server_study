@@ -56,7 +56,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>launch.Main</mainClass>
+                            <mainClass>com.fantasybaby.tomcat.embed.study.StartMain</mainClass>
                             <name>webapp</name>
                         </program>
                     </programs>
